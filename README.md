@@ -12,6 +12,6 @@ Escrito por Steven Johnson. Narra la historia de como John Snow descubre la proc
 
 ## La venganza de la geografía (The revenge of geography)
 Escrito por  Robert D. Kaplan. En este libro el autor revisa las grandes teorías de la geopolítica
-*Halford John Mackinder y la teoría del hearthland que desarrolla en su "The Geographical Pivot of History"
-*Nicolas  J. Spykman y la teoría del anillo continental
-*Alfred Thayer Mahan y la importancia del poder marítimo
+* Halford John Mackinder y la teoría del hearthland que desarrolla en su "The Geographical Pivot of History"
+* Nicolas  J. Spykman y la teoría del anillo continental
+* Alfred Thayer Mahan y la importancia del poder marítimo
