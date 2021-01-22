@@ -15,3 +15,6 @@ Escrito por  Robert D. Kaplan. En este libro el autor revisa las grandes teoría
 * Halford John Mackinder y la teoría del hearthland que desarrolla en su "The Geographical Pivot of History"
 * Nicolas  J. Spykman y la teoría del anillo continental
 * Alfred Thayer Mahan y la importancia del poder marítimo
+
+## Por qué fracasan los países (Why Nations Fail)
+Escrito por Daron Acemoğlu y James A. Robinson.
