@@ -18,3 +18,6 @@ Escrito por  Robert D. Kaplan. En este libro el autor revisa las grandes teoría
 
 ## Por qué fracasan los países (Why Nations Fail)
 Escrito por Daron Acemoğlu y James A. Robinson.
+
+## ¿Quién domina el mundo??
+Escrito por Noam Chomsky.
