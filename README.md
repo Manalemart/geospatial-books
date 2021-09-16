@@ -19,5 +19,8 @@ Escrito por  Robert D. Kaplan. En este libro el autor revisa las grandes teoría
 ## Por qué fracasan los países (Why Nations Fail)
 Escrito por Daron Acemoğlu y James A. Robinson.
 
-## ¿Quién domina el mundo??
+## ¿Quién domina el mundo? (Who rules the world?)
 Escrito por Noam Chomsky.
+
+## El porqué de los mapas
+Eduard Dalmau
