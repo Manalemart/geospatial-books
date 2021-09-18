@@ -1,4 +1,4 @@
-# GeoBooks
+# Libros geoespaciales
 Colección de libros relacionados con las ciencias geoespaciales.
 
 ## Como mentir con mapas (How to lie with maps)
