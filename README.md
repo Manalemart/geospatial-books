@@ -34,3 +34,10 @@ En este libro el autor revisa las grandes teorías de la geopolítica:
 *Escrito por Eduard Dalmau*
 * Repaso a las referencias cartográficas primogéneas, que como el propio autor dice, pasan inadvertidas cuando se estudia la historia de la cartografía
 * Destacable la explicación las razones de los cálculos de la Tierra por parte de Eratóstenes y Ptolomeo, y como ambas se basan en razonamientos erróneos. 
+
+## En el mapa: de cómo el mundo adquirió su aspecto
+*Escrito por Simon Garfield
+*enlace de compra: https://amzn.to/3krvXSj
+* Repaso a la historia de la cartografía, con ejemplos de mapas poco conocidos, extraños y curiosidades sobre el noble arte de la cartografía.
+* A lo largo del libro se realiza un viaje desde los inicios de la cartografia (primeros mapas de Anaximandro de Mileto) hasta llegar a nuestros días con las tecnológias del GPS
+* y google maps. 
